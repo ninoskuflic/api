@@ -4345,153 +4345,674 @@
                 "Snake"
             ],
             "correctAnswer": "Zed"
+        }
+    ],
+    "familyguy": [
+        {
+            "id": 1,
+            "question": "What is Peter Griffin's favorite TV show?",
+            "possibleAnswers": [
+                "The Simpsons",
+                "Friends",
+                "Game of Thrones",
+                "Cheers"
+            ],
+            "correctAnswer": "Cheers"
         },
         {
-            "id": 16,
-            "question": "What rank does Kif hold in the DOOP?",
+            "id": 2,
+            "question": "What is the name of Stewie's teddy bear?",
             "possibleAnswers": [
-                "Sergeant",
-                "Captain",
-                "Lieutenant",
-                "Major"
+                "Rupert",
+                "Ted",
+                "Snuggles",
+                "Fuzzy"
             ],
-            "correctAnswer": "Lieutenant"
+            "correctAnswer": "Rupert"
         },
         {
-            "id": 17,
-            "question": "Who are the two recurring cops, often seen around New New York?",
+            "id": 3,
+            "question": "Who is Brian Griffin's best friend?",
             "possibleAnswers": [
-                "Jonesy and ISP",
-                "Smitty and URL",
-                "Brady and Dotcom",
-                "Harry and Capslock"
+                "Quagmire",
+                "Cleveland",
+                "Joe",
+                "Mort"
             ],
-            "correctAnswer": "Brady and Dotcom"
+            "correctAnswer": "Stewie"
         },
         {
-            "id": 18,
-            "question": "In 'Insane in the Mainframe', who is Fry's room mate at the Asylum for Criminally Insane Robots before Roberto is moved in?",
+            "id": 4,
+            "question": "What is the name of Lois's brother?",
             "possibleAnswers": [
-                "Joey Mousepad",
-                "Tinny Tim",
-                "Hedonismbot",
-                "Malfunctioning Eddie"
+                "Chris",
+                "Patrick",
+                "Jerry",
+                "Carol"
             ],
-            "correctAnswer": "Malfunctioning Eddie"
+            "correctAnswer": "Patrick"
         },
         {
-            "id": 19,
-            "question": "Which product successfully uses a dream advert to market itself to Fry?",
+            "id": 5,
+            "question": "What is the name of Meg's crush at school?",
             "possibleAnswers": [
-                "Slurm",
-                "Bachelor Chowm",
-                "Lightspeed Briefs",
-                "Mom's Robot Oil"
+                "Brian",
+                "Chris",
+                "Neil",
+                "Stewie"
             ],
-            "correctAnswer": "Lightspeed Briefs"
+            "correctAnswer": "Neil"
         },
         {
-            "id": 20,
-            "question": "What was Fry's job in 1999?",
+            "id": 6,
+            "question": "What is the name of the local bar where the guys hang out?",
             "possibleAnswers": [
-                "Pizza Delivery Boy",
-                "Newspaper Delivery Boy",
-                "Milkman",
-                "Shoe Shine Boy",
-                "Postman"
+                "Moe's Tavern",
+                "Paddy's Pub",
+                "The Drunken Clam",
+                "The Jolly Roger"
             ],
-            "correctAnswer": "Pizza Delivery Boy"
+            "correctAnswer": "The Drunken Clam"
         },
         {
-            "id": 21,
-            "question": "What company does Dr. Farnsworth run?",
+            "id": 7,
+            "question": "What is the name of the town where the Griffins live?",
             "possibleAnswers": [
-                "Space Express",
-                "FexEd",
-                "Earth Express",
-                "Planet Express",
-                "Federal Express"
+                "Quahog",
+                "Springfield",
+                "Langley Falls",
+                "South Park"
             ],
-            "correctAnswer": "Planet Express"
+            "correctAnswer": "Quahog"
         },
         {
-            "id": 22,
-            "question": "Futurama was amlost called what?",
+            "id": 8,
+            "question": "What is Peter's favorite fast-food restaurant?",
             "possibleAnswers": [
-                "Doomsville or Aloha Mars",
-                "Lrrrenconcilable Ndndifferences",
-                "Futurella",
-                "World of Tomorrow"
+                "McDonald's",
+                "Burger King",
+                "KFC",
+                "Wendy's"
             ],
-            "correctAnswer": "Doomsville or Aloha Mars"
+            "correctAnswer": "McDonald's"
         },
         {
-            "id": 23,
-            "question": "What are the pest animals in New New York?",
+            "id": 9,
+            "question": "What is the name of Stewie's time-traveling alter ego?",
             "possibleAnswers": [
-                "Rats",
-                "Mutated Gators",
-                "Owls",
-                "Pigeons",
-                "Omicrons"
+                "Stu",
+                "Future Stewie",
+                "Time Lord Stew",
+                "Bertram"
             ],
-            "correctAnswer": "Owls"
+            "correctAnswer": "Stu"
         },
         {
-            "id": 24,
-            "question": "In Love's Labours In Space which club did Leela visit to find a partner?",
+            "id": 10,
+            "question": "What is the name of the talking dog that Brian falls in love with?",
             "possibleAnswers": [
-                "Club Extravaganza",
-                "Bubble Bar",
-                "Hip Joint",
-                "O'Gorgnaxs"
+                "Lady",
+                "Princess",
+                "Missy",
+                "Loretta"
             ],
-            "correctAnswer": "Hip Joint"
+            "correctAnswer": "Missy"
         },
         {
-            "id": 25,
-            "question": "In Fear of Bot Planet what fake religious robot holiday did Bender make up?",
+            "id": 11,
+            "question": "What is the name of Peter's boss at the brewery?",
             "possibleAnswers": [
-                "Bot-Mitvah",
-                "Robanza",
-                "Robonukah",
-                "Robotisam"
+                "Angela",
+                "Mr. Weed",
+                "Carter Pewterschmidt",
+                "Adam West"
             ],
-            "correctAnswer": "Robonukah"
+            "correctAnswer": "Angela"
         },
         {
-            "id": 26,
-            "question": "In Fry and the Slurm Factory what did Fry and Bender use to look in the Slurm cans?",
+            "id": 12,
+            "question": "What is the name of the school that Meg attends?",
             "possibleAnswers": [
-                "X-Ray",
-                "Z-Ray",
-                "Lookamatic 5000",
-                "F-Ray"
+                "James Woods High",
+                "Quahog High",
+                "Springfield Elementary",
+                "South Park Elementary"
             ],
-            "correctAnswer": "Lookamatic 5000"
+            "correctAnswer": "James Woods High"
         },
         {
-            "id": 27,
-            "question": "What was the name of Fry's dog?",
+            "id": 13,
+            "question": "What is the name of Joe Swanson's wife?",
             "possibleAnswers": [
-                "Buster",
-                "I.C. Wiener",
-                "Robo-Dog",
-                "Seymour Asses"
+                "Bonnie",
+                "Donna",
+                "Lois",
+                "Tricia"
             ],
-            "correctAnswer": "Seymour Asses"
+            "correctAnswer": "Bonnie"
         },
         {
-            "id": 28,
-            "question": "What is Planet Express's Slogan?",
+            "id": 14,
+            "question": "What is the name of Quagmire's cat?",
             "possibleAnswers": [
-                "Our crew is replaceable. Your package isn't",
-                "Good news everyone",
-                "We are the fastest service, no matter how long it takes.",
-                "We will get it there, eventually.",
-                "If it ain't broke, we'll break it."
+                "Whiskers",
+                "Fluffy",
+                "Paws",
+                "Mr. Cuddles"
             ],
-            "correctAnswer": "Our crew is replaceable. Your package isn't"
+            "correctAnswer": "Mr. Cuddles"
+        },
+        {
+            "id": 15,
+            "question": "What is the name of the evil monkey who lives in Chris's closet?",
+            "possibleAnswers": [
+                "George",
+                "Kevin",
+                "Spanky",
+                "Evil Monkey"
+            ],
+            "correctAnswer": "Evil Monkey"
+        }
+    ],
+    "simpsons": [
+        {
+            "id": 1,
+            "question": "What is Homer Simpson's favorite drink?",
+            "possibleAnswers": [
+                "Coke",
+                "Beer",
+                "Milkshake",
+                "Coffee"
+            ],
+            "correctAnswer": "Beer"
+        },
+        {
+            "id": 2,
+            "question": "What instrument does Lisa Simpson play?",
+            "possibleAnswers": [
+                "Guitar",
+                "Saxophone",
+                "Piano",
+                "Flute"
+            ],
+            "correctAnswer": "Saxophone"
+        },
+        {
+            "id": 3,
+            "question": "What is the name of Bart Simpson's best friend?",
+            "possibleAnswers": [
+                "Ralph",
+                "Milhouse",
+                "Nelson",
+                "Martin"
+            ],
+            "correctAnswer": "Milhouse"
+        },
+        {
+            "id": 4,
+            "question": "What is the name of Marge Simpson's sisters?",
+            "possibleAnswers": [
+                "Patty and Selma",
+                "Ling and Maggie",
+                "Bonnie and Connie",
+                "Mindy and Sandy"
+            ],
+            "correctAnswer": "Patty and Selma"
+        },
+        {
+            "id": 5,
+            "question": "What is the name of the school that Bart and Lisa attend?",
+            "possibleAnswers": [
+                "Springfield Elementary",
+                "Evergreen Terrace School",
+                "Shelbyville Elementary",
+                "Waverly Hills Elementary"
+            ],
+            "correctAnswer": "Springfield Elementary"
+        },
+        {
+            "id": 6,
+            "question": "What is the name of Homer's boss at the nuclear power plant?",
+            "possibleAnswers": [
+                "Mr. Burns",
+                "Ned Flanders",
+                "Principal Skinner",
+                "Apu Nahasapeemapetilon"
+            ],
+            "correctAnswer": "Mr. Burns"
+        },
+        {
+            "id": 7,
+            "question": "What is the catchphrase of Krusty the Clown?",
+            "possibleAnswers": [
+                "D'oh!",
+                "Eat my shorts!",
+                "Ha-ha!",
+                "Hey hey!"
+            ],
+            "correctAnswer": "Hey hey!"
+        },
+        {
+            "id": 8,
+            "question": "What is the name of the Simpsons' next-door neighbor?",
+            "possibleAnswers": [
+                "Ned Flanders",
+                "Barney Gumble",
+                "Moe Szyslak",
+                "Chief Wiggum"
+            ],
+            "correctAnswer": "Ned Flanders"
+        },
+        {
+            "id": 9,
+            "question": "What is the name of the Simpsons' cat?",
+            "possibleAnswers": [
+                "Fluffy",
+                "Snowball",
+                "Whiskers",
+                "Mittens"
+            ],
+            "correctAnswer": "Snowball"
+        },
+        {
+            "id": 10,
+            "question": "What is the name of the beer that Homer drinks?",
+            "possibleAnswers": [
+                "Duff",
+                "Buzz Cola",
+                "Flaming Moe",
+                "Slurm"
+            ],
+            "correctAnswer": "Duff"
+        },
+        {
+            "id": 11,
+            "question": "What is the name of Bart's favorite comic book hero?",
+            "possibleAnswers": [
+                "Spider-Man",
+                "Iron Man",
+                "Batman",
+                "Radioactive Man"
+            ],
+            "correctAnswer": "Radioactive Man"
+        },
+        {
+            "id": 12,
+            "question": "What is the name of Homer's barbershop quartet?",
+            "possibleAnswers": [
+                "The Be Sharps",
+                "The Springfield Four",
+                "The Dapper Dans",
+                "The Harmonious Homers"
+            ],
+            "correctAnswer": "The Be Sharps"
+        },
+        {
+            "id": 13,
+            "question": "What is the name of the town's mayor in The Simpsons?",
+            "possibleAnswers": [
+                "Mayor Quimby",
+                "Mayor McCheese",
+                "Mayor Bee",
+                "Mayor West"
+            ],
+            "correctAnswer": "Mayor Quimby"
+        },
+        {
+            "id": 14,
+            "question": "What is the name of the Simpsons' dog?",
+            "possibleAnswers": [
+                "Spot",
+                "Buddy",
+                "Santa's Little Helper",
+                "Rover"
+            ],
+            "correctAnswer": "Santa's Little Helper"
+        },
+        {
+            "id": 15,
+            "question": "What is the name of the school bully who often targets Bart?",
+            "possibleAnswers": [
+                "Nelson",
+                "Jimbo",
+                "Kearney",
+                "Dolph"
+            ],
+            "correctAnswer": "Nelson"
+        }
+    ],
+    "rickandmorty": [
+        {
+            "id": 1,
+            "question": "What dimension is Rick Sanchez originally from?",
+            "possibleAnswers": [
+                "C-137",
+                "D-99",
+                "A-352",
+                "B-456"
+            ],
+            "correctAnswer": "C-137"
+        },
+        {
+            "id": 2,
+            "question": "What is the name of Rick's grandson?",
+            "possibleAnswers": [
+                "Marty",
+                "Morty",
+                "Jerry",
+                "Summer"
+            ],
+            "correctAnswer": "Morty"
+        },
+        {
+            "id": 3,
+            "question": "What is the name of Rick's catchphrase?",
+            "possibleAnswers": [
+                "Wubba Lubba Dub Dub",
+                "Get Schwifty",
+                "I'm Pickle Rick!",
+                "Existence is pain"
+            ],
+            "correctAnswer": "Wubba Lubba Dub Dub"
+        },
+        {
+            "id": 4,
+            "question": "What is the name of the alternate universe where pizzas are delivered to your dimension?",
+            "possibleAnswers": [
+                "Dimension C-500A",
+                "Dimension Z-3",
+                "Dimension 35-C",
+                "Dimension K-22"
+            ],
+            "correctAnswer": "Dimension C-500A"
+        },
+        {
+            "id": 5,
+            "question": "What is the name of Morty's crush in the show?",
+            "possibleAnswers": [
+                "Jessica",
+                "Beth",
+                "Summer",
+                "Tammy"
+            ],
+            "correctAnswer": "Jessica"
+        },
+        {
+            "id": 6,
+            "question": "What is the name of Rick's daughter?",
+            "possibleAnswers": [
+                "Beth",
+                "Summer",
+                "Jessica",
+                "Tammy"
+            ],
+            "correctAnswer": "Beth"
+        },
+        {
+            "id": 7,
+            "question": "What is the name of the devilish character Rick encounters in 'Something Ricked This Way Comes'?",
+            "possibleAnswers": [
+                "Lucifer",
+                "Beelzebot",
+                "Satan",
+                "Mr. Meeseeks"
+            ],
+            "correctAnswer": "Mr. Meeseeks"
+        },
+        {
+            "id": 8,
+            "question": "What is the name of Rick's bird-like friend who often joins him on adventures?",
+            "possibleAnswers": [
+                "Birdperson",
+                "Squanchy",
+                "Krombopulos Michael",
+                "Phoenixperson"
+            ],
+            "correctAnswer": "Birdperson"
+        },
+        {
+            "id": 9,
+            "question": "What is the name of the futuristic amusement park where Rick takes Morty in 'Anatomy Park'?",
+            "possibleAnswers": [
+                "Blips and Chitz",
+                "Joyfulandia",
+                "Royland",
+                "Fantasyland"
+            ],
+            "correctAnswer": "Blips and Chitz"
+        },
+        {
+            "id": 10,
+            "question": "What is the name of Rick's favorite fast-food sauce that caused a craze?",
+            "possibleAnswers": [
+                "Szechuan Sauce",
+                "Teriyaki Sauce",
+                "Honey Mustard",
+                "Buffalo Sauce"
+            ],
+            "correctAnswer": "Szechuan Sauce"
+        },
+        {
+            "id": 11,
+            "question": "What is the name of Morty's pet dog that becomes super intelligent?",
+            "possibleAnswers": [
+                "Snuffles",
+                "Mr. Meeseeks",
+                "Snowball",
+                "Scary Terry"
+            ],
+            "correctAnswer": "Snuffles"
+        },
+        {
+            "id": 12,
+            "question": "What is the name of the parallel universe where everyone is a hamster?",
+            "possibleAnswers": [
+                "Hamstertopia",
+                "Rodentia",
+                "Cavia",
+                "Verminverse"
+            ],
+            "correctAnswer": "Hamstertopia"
+        },
+        {
+            "id": 13,
+            "question": "What is the name of the alien species that Rick and Morty encounter in the episode 'Get Schwifty'?",
+            "possibleAnswers": [
+                "Zigerions",
+                "Gazorpians",
+                "Meeseeks",
+                "Cromulons"
+            ],
+            "correctAnswer": "Cromulons"
+        },
+        {
+            "id": 14,
+            "question": "What is the name of the interdimensional cable TV show in Rick and Morty?",
+            "possibleAnswers": [
+                "Dimension 404",
+                "Multiverse Madness",
+                "Interdimensional Cable",
+                "Parallel Programming"
+            ],
+            "correctAnswer": "Interdimensional Cable"
+        },
+        {
+            "id": 15,
+            "question": "What is the name of the rock band formed by Rick, Birdperson, and Squanchy?",
+            "possibleAnswers": [
+                "The Intergalactic Rockers",
+                "Birds and Squanches",
+                "The Space Jammers",
+                "Flesh Curtains"
+            ],
+            "correctAnswer": "Flesh Curtains"
+        }
+    ],
+    "gameofthrones": [
+        {
+            "id": 1,
+            "question": "Who is known as the 'Mother of Dragons'?",
+            "possibleAnswers": [
+                "Cersei Lannister",
+                "Sansa Stark",
+                "Daenerys Targaryen",
+                "Margaery Tyrell"
+            ],
+            "correctAnswer": "Daenerys Targaryen"
+        },
+        {
+            "id": 2,
+            "question": "What is the name of Ned Stark's sword?",
+            "possibleAnswers": [
+                "Ice",
+                "Fire",
+                "Shadowbane",
+                "Dragonslayer"
+            ],
+            "correctAnswer": "Ice"
+        },
+        {
+            "id": 3,
+            "question": "Who is Jon Snow's direwolf?",
+            "possibleAnswers": [
+                "Ghost",
+                "Nymeria",
+                "Lady",
+                "Grey Wind"
+            ],
+            "correctAnswer": "Ghost"
+        },
+        {
+            "id": 4,
+            "question": "Which house has a sigil of a golden lion?",
+            "possibleAnswers": [
+                "House Stark",
+                "House Baratheon",
+                "House Lannister",
+                "House Targaryen"
+            ],
+            "correctAnswer": "House Lannister"
+        },
+        {
+            "id": 5,
+            "question": "What is the nickname of Sandor Clegane?",
+            "possibleAnswers": [
+                "The Mountain",
+                "The Hound",
+                "The Viper",
+                "The Spider"
+            ],
+            "correctAnswer": "The Hound"
+        },
+        {
+            "id": 6,
+            "question": "Who is the Three-Eyed Raven?",
+            "possibleAnswers": [
+                "Bran Stark",
+                "Jojen Reed",
+                "Bloodraven",
+                "The Night King"
+            ],
+            "correctAnswer": "Bran Stark"
+        },
+        {
+            "id": 7,
+            "question": "What is the capital of the Seven Kingdoms?",
+            "possibleAnswers": [
+                "Winterfell",
+                "King's Landing",
+                "Dragonstone",
+                "Riverrun"
+            ],
+            "correctAnswer": "King's Landing"
+        },
+        {
+            "id": 8,
+            "question": "Who is the current ruler of the Iron Islands?",
+            "possibleAnswers": [
+                "Euron Greyjoy",
+                "Balon Greyjoy",
+                "Yara Greyjoy",
+                "Asha Greyjoy"
+            ],
+            "correctAnswer": "Yara Greyjoy"
+        },
+        {
+            "id": 9,
+            "question": "What is the name of Arya Stark's sword?",
+            "possibleAnswers": [
+                "Oathkeeper",
+                "Widow's Wail",
+                "Needle",
+                "Longclaw"
+            ],
+            "correctAnswer": "Needle"
+        },
+        {
+            "id": 10,
+            "question": "Who was Joffrey Baratheon's biological father?",
+            "possibleAnswers": [
+                "Stannis Baratheon",
+                "Robert Baratheon",
+                "Renly Baratheon",
+                "Tywin Lannister"
+            ],
+            "correctAnswer": "Robert Baratheon"
+        },
+        {
+            "id": 11,
+            "question": "What is the house words of House Stark?",
+            "possibleAnswers": [
+                "Hear Me Roar!",
+                "We Do Not Sow",
+                "Ours is the Fury",
+                "Winter is Coming"
+            ],
+            "correctAnswer": "Winter is Coming"
+        },
+        {
+            "id": 12,
+            "question": "Who was the mastermind behind the Red Wedding?",
+            "possibleAnswers": [
+                "Tywin Lannister",
+                "Walder Frey",
+                "Roose Bolton",
+                "Stannis Baratheon"
+            ],
+            "correctAnswer": "Tywin Lannister"
+        },
+        {
+            "id": 13,
+            "question": "What is the name of Daenerys Targaryen's dragon?",
+            "possibleAnswers": [
+                "Rhaegal",
+                "Viserion",
+                "Drogon",
+                "Balerion"
+            ],
+            "correctAnswer": "Drogon"
+        },
+        {
+            "id": 14,
+            "question": "What is the nickname of Jaime Lannister?",
+            "possibleAnswers": [
+                "The Mountain",
+                "The Kingslayer",
+                "The Imp",
+                "The Blackfish"
+            ],
+            "correctAnswer": "The Kingslayer"
+        },
+        {
+            "id": 15,
+            "question": "What is the name of the city Daenerys frees from slavery?",
+            "possibleAnswers": [
+                "Astapor",
+                "Meereen",
+                "Yunkai",
+                "Volantis"
+            ],
+            "correctAnswer": "Astapor"
         }
     ]
 }
