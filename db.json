@@ -4347,7 +4347,7 @@
             "correctAnswer": "Zed"
         }
     ],
-    "familyguy": [
+    "family-guy": [
         {
             "id": 1,
             "question": "What is Peter Griffin's favorite TV show?",
@@ -4514,7 +4514,7 @@
             "correctAnswer": "Evil Monkey"
         }
     ],
-    "simpsons": [
+    "the-simpsons": [
         {
             "id": 1,
             "question": "What is Homer Simpson's favorite drink?",
@@ -4681,7 +4681,7 @@
             "correctAnswer": "Nelson"
         }
     ],
-    "rickandmorty": [
+    "rick-and-morty": [
         {
             "id": 1,
             "question": "What dimension is Rick Sanchez originally from?",
@@ -4848,7 +4848,7 @@
             "correctAnswer": "Flesh Curtains"
         }
     ],
-    "gameofthrones": [
+    "game-of-thrones": [
         {
             "id": 1,
             "question": "Who is known as the 'Mother of Dragons'?",
@@ -5013,6 +5013,173 @@
                 "Volantis"
             ],
             "correctAnswer": "Astapor"
+        }
+    ],
+    "harry-potter": [
+        {
+            "id": 1,
+            "question": "Who is the headmaster of Hogwarts School of Witchcraft and Wizardry?",
+            "possibleAnswers": [
+                "Albus Dumbledore",
+                "Severus Snape",
+                "Minerva McGonagall",
+                "Gellert Grindelwald"
+            ],
+            "correctAnswer": "Albus Dumbledore"
+        },
+        {
+            "id": 2,
+            "question": "What is the name of Harry Potter's pet owl?",
+            "possibleAnswers": [
+                "Hedwig",
+                "Errol",
+                "Scabbers",
+                "Crookshanks"
+            ],
+            "correctAnswer": "Hedwig"
+        },
+        {
+            "id": 3,
+            "question": "Which house does Harry Potter belong to at Hogwarts?",
+            "possibleAnswers": [
+                "Gryffindor",
+                "Slytherin",
+                "Hufflepuff",
+                "Ravenclaw"
+            ],
+            "correctAnswer": "Gryffindor"
+        },
+        {
+            "id": 4,
+            "question": "Who is Harry Potter's best friend?",
+            "possibleAnswers": [
+                "Ron Weasley",
+                "Hermione Granger",
+                "Neville Longbottom",
+                "Draco Malfoy"
+            ],
+            "correctAnswer": "Ron Weasley"
+        },
+        {
+            "id": 5,
+            "question": "What is the name of the magical sport played on broomsticks in the wizarding world?",
+            "possibleAnswers": [
+                "Quidditch",
+                "Wizard Chess",
+                "Gobstones",
+                "Exploding Snap"
+            ],
+            "correctAnswer": "Quidditch"
+        },
+        {
+            "id": 6,
+            "question": "Who is the Defense Against the Dark Arts teacher in Harry Potter's first year at Hogwarts?",
+            "possibleAnswers": [
+                "Quirinus Quirrell",
+                "Gilderoy Lockhart",
+                "Remus Lupin",
+                "Dolores Umbridge"
+            ],
+            "correctAnswer": "Quirinus Quirrell"
+        },
+        {
+            "id": 7,
+            "question": "What magical item allows Harry Potter to become invisible?",
+            "possibleAnswers": [
+                "Invisibility Cloak",
+                "Sneakoscope",
+                "Time-Turner",
+                "Deluminator"
+            ],
+            "correctAnswer": "Invisibility Cloak"
+        },
+        {
+            "id": 8,
+            "question": "Which magical creature is known for guarding banks in the wizarding world?",
+            "possibleAnswers": [
+                "Hippogriff",
+                "Thestral",
+                "Acromantula",
+                "Gringotts Goblin"
+            ],
+            "correctAnswer": "Gringotts Goblin"
+        },
+        {
+            "id": 9,
+            "question": "What is the core of Harry Potter's wand?",
+            "possibleAnswers": [
+                "Phoenix feather",
+                "Dragon heartstring",
+                "Unicorn hair",
+                "Veela hair"
+            ],
+            "correctAnswer": "Phoenix feather"
+        },
+        {
+            "id": 10,
+            "question": "Who is the Half-Blood Prince?",
+            "possibleAnswers": [
+                "Severus Snape",
+                "Tom Riddle",
+                "Sirius Black",
+                "Remus Lupin"
+            ],
+            "correctAnswer": "Severus Snape"
+        },
+        {
+            "id": 11,
+            "question": "What is the name of the magical plant that screams when touched?",
+            "possibleAnswers": [
+                "Mandrake",
+                "Devil's Snare",
+                "Whomping Willow",
+                "Bubotuber"
+            ],
+            "correctAnswer": "Mandrake"
+        },
+        {
+            "id": 12,
+            "question": "Which Weasley sibling is known for his/her pranks and inventions?",
+            "possibleAnswers": [
+                "Fred Weasley",
+                "George Weasley",
+                "Ron Weasley",
+                "Ginny Weasley"
+            ],
+            "correctAnswer": "Fred Weasley"
+        },
+        {
+            "id": 13,
+            "question": "What is the name of the spell used to summon an object to the caster?",
+            "possibleAnswers": [
+                "Accio",
+                "Alohomora",
+                "Expelliarmus",
+                "Lumos"
+            ],
+            "correctAnswer": "Accio"
+        },
+        {
+            "id": 14,
+            "question": "Who is the author of 'Fantastic Beasts and Where to Find Them'?",
+            "possibleAnswers": [
+                "Alastor Moody",
+                "Newt Scamander",
+                "Gellert Grindelwald",
+                "Leta Lestrange"
+            ],
+            "correctAnswer": "Newt Scamander"
+        },
+        {
+            "id": 15,
+            "question": "What is the name of the magical prison guarded by Dementors?",
+            "possibleAnswers": [
+                "Azkaban",
+                "Nurmengard",
+                "Malfoy Manor",
+                "Gringotts"
+            ],
+            "correctAnswer": "Azkaban"
         }
     ]
 }
