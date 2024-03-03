@@ -25,9 +25,21 @@ server.use(jsonServer.rewriter({
     '/tasks/category/:category': '/tasks?category=:category',
 }))
 
-// Middleware to restrict methods on specific routes
-server.use('/stoic', (req, res, next) => {
-    if (req.method === 'POST' || req.method === 'PUT' || req.method === 'DELETE' || req.method === 'PATCH') {
+// Configuration object for method restrictions
+const methodRestrictions = {
+    '/stoic': ['POST', 'PUT', 'DELETE', 'PATCH'],
+    '/futurama': ['POST', 'PUT', 'DELETE', 'PATCH'],
+    '/family-guy': ['POST', 'PUT', 'DELETE', 'PATCH'],
+    '/the-simpsons': ['POST', 'PUT', 'DELETE', 'PATCH'],
+    '/rick-and-morty': ['POST', 'PUT', 'DELETE', 'PATCH'],
+    '/game-of-thrones': ['POST', 'PUT', 'DELETE', 'PATCH'],
+    '/harry-potter': ['POST', 'PUT', 'DELETE', 'PATCH'],
+};
+
+// Middleware to restrict methods dynamically
+server.use((req, res, next) => {
+    const path = req.originalUrl.split('?')[0]; // Get the path without query parameters
+    if (methodRestrictions[path] && methodRestrictions[path].includes(req.method)) {
         res.sendStatus(403); // Forbidden
     } else {
         next();
