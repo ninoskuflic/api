@@ -1,8 +1,8 @@
 {
   "name": "skuflicapi",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "private": true,
-  "homepage": "https://api.learn.skuflic.com",
+  "homepage": "https://api.edu.skuflic.com",
   "dependencies": {
     "clone": "^2.1.2"
   },
