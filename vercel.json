@@ -12,12 +12,9 @@
             "destination": "api/server.js"
         }
     ],
-    "routes": [
+    "headers": [
         {
-            "src": "/stoic",
-            "methods": [
-                "GET"
-            ],
+            "source": "/(.*)",
             "headers": [
                 {
                     "key": "Access-Control-Allow-Credentials",
