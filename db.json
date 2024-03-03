@@ -2639,46 +2639,6 @@
             "category": "success"
         }
     ],
-    "products": [
-        {
-            "id": 1,
-            "name": "MacBook Air 13-inch with M1 chip",
-            "price": "$999",
-            "type": "computer",
-            "features": {
-                "chip": "Apple M1 chip delivers powerful CPU, GPU, and machine learning performance",
-                "battery": "Up to 18 hours of battery life so you can go longer than ever",
-                "display": "Retina display with vibrant colors and incredible detail",
-                "storage": "Superfast SSD storage opens apps and files in an instant",
-                "design": "Fanless design for silent operation"
-            },
-            "image": "https://static.skuflic.com/api/products/macbook-air-13-inch.png",
-            "images": [
-                "https://static.skuflic.com/api/products/macbook-air-13-inch-1.png",
-                "https://static.skuflic.com/api/products/macbook-air-13-inch-2.png",
-                "https://static.skuflic.com/api/products/macbook-air-13-inch-3.png"
-            ]
-        },
-        {
-            "id": 2,
-            "name": "MacBook Air 13-inch with M2 chip",
-            "price": "$1099",
-            "type": "computer",
-            "features": {
-                "chip": "Apple M1 chip delivers powerful CPU, GPU, and machine learning performance",
-                "battery": "Up to 18 hours of battery life so you can go longer than ever",
-                "display": "Retina display with vibrant colors and incredible detail",
-                "storage": "Superfast SSD storage opens apps and files in an instant",
-                "design": "Fanless design for silent operation"
-            },
-            "image": "https://static.skuflic.com/api/products/macbook-air-13-inch-m2.png",
-            "images": [
-                "https://static.skuflic.com/api/products/macbook-air-13-inch-m2-1.png",
-                "https://static.skuflic.com/api/products/macbook-air-13-inch-m2-2.png",
-                "https://static.skuflic.com/api/products/macbook-air-13-inch-m2-3.png"
-            ]
-        }
-    ],
     "cars": [
         {
             "make": "Chevrolet",
