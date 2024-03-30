@@ -44,7 +44,7 @@ p {
 }
 
 .bg-image {
-    background-image: url(https://static.skuflic.com/api/background.jpeg);
+    background-image: url(https://image.tmdb.org/t/p/original/nDOIsgCYZqEMvomSR6t9QUIPZJS.jpg);
     background-size: cover;
     background-position: left;
     // background-size: contain;
@@ -100,10 +100,12 @@ p {
 ul {
     list-style-type: none;
     padding-left: 0px;
+
     a {
         color: $black;
         font-weight: 300;
         margin-bottom: 5px;
+
         &:hover {
             color: $green;
         }
@@ -117,6 +119,7 @@ code {
     padding: 3px;
     margin: 10px 0px 10px 0px;
     user-select: none;
+
     &:hover {
         border: 1px solid $green;
         color: $green;
@@ -125,6 +128,7 @@ code {
 
 #custom-routes {
     margin-top: 35px;
+
     code {
         margin: 10px 3px 10px 5px;
     }
@@ -134,10 +138,12 @@ code {
     div {
         display: inline-block;
     }
+
     margin-bottom: 15px;
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+
     .ml-3,
     .mx-3 {
         margin-left: 0px !important;
