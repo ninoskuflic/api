@@ -37,9 +37,9 @@ p {
 }
 
 .bg-image {
-  background-image: url(https://static.skuflic.com/api/background.jpeg);
+  background-image: linear-gradient(to top, #0b0c0f 0%, rgba(0, 0, 0, 0) 100%), url(https://image.tmdb.org/t/p/original/nDOIsgCYZqEMvomSR6t9QUIPZJS.jpg);
   background-size: cover;
-  background-position: left;
+  background-position: center center;
   margin-bottom: -2px;
 }
 
