@@ -2,13 +2,6 @@ body {
   font-family: "GT Walsheim Pro";
 }
 
-.container {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-}
-
 h1 {
   margin-bottom: 0px;
 }
@@ -66,21 +59,6 @@ p {
 }
 .legal a:hover {
   text-decoration: underline;
-}
-
-.bg-light::before {
-  content: " ";
-  display: block;
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url(https://static.skuflic.com/images/branding/logo/dark.svg);
-  background-repeat: no-repeat;
-  background-position: bottom;
-  background-size: contain;
-  opacity: 0.02;
 }
 
 ul {

@@ -5,15 +5,7 @@ $black: black;
 $green: #02ff7f;
 
 body {
-    font-family: "GT Walsheim Pro";
-}
-
-.container {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    font-family: 'GT Walsheim Pro';
 }
 
 h1 {
@@ -78,20 +70,20 @@ p {
     }
 }
 
-.bg-light::before {
-    content: " ";
-    display: block;
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url(https://static.skuflic.com/images/branding/logo/dark.svg);
-    background-repeat: no-repeat;
-    background-position: bottom;
-    background-size: contain;
-    opacity: 0.02;
-}
+// .bg-light::before {
+//     content: ' ';
+//     display: block;
+//     position: absolute;
+//     left: 0;
+//     top: 0;
+//     width: 100%;
+//     height: 100%;
+//     background-image: url(https://static.skuflic.com/images/branding/logo/dark.svg);
+//     background-repeat: no-repeat;
+//     background-position: bottom;
+//     background-size: contain;
+//     opacity: 0.02;
+// }
 
 ul {
     list-style-type: none;
