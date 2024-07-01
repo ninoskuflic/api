@@ -33,12 +33,10 @@ p {
   background-image: linear-gradient(to top, #0b0c0f 0%, rgba(0, 0, 0, 0) 100%), url(https://image.tmdb.org/t/p/original/nDOIsgCYZqEMvomSR6t9QUIPZJS.jpg);
   background-size: cover;
   background-position: center center;
-  margin-bottom: -2px;
+  align-items: flex-end;
 }
 
 .legal {
-  position: absolute;
-  bottom: 0;
   font-size: 10px;
   opacity: 0.5;
   color: #ced4da;
