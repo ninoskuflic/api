@@ -1,5 +1,12 @@
+@font-face {
+  font-family: "Cal Sans UI";
+  src: url("https://static.skuflic.com/fonts/Cal-Sans/CalSansUI-Variable.woff2") format("woff2-variations");
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+}
 body {
-  font-family: "GT Walsheim Pro";
+  font-family: "Cal Sans UI", ui-sans-serif, system-ui, sans-serif;
 }
 
 h1 {
@@ -94,11 +101,11 @@ code:hover {
   margin: 10px 3px 10px 5px;
 }
 
-.resources {
-  margin-bottom: 15px;
-}
 .resources div {
   display: inline-block;
+}
+.resources {
+  margin-bottom: 15px;
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {

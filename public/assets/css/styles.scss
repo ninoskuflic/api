@@ -4,8 +4,16 @@ $background: #f8f9fa;
 $black: black;
 $green: #02ff7f;
 
+@font-face {
+    font-family: 'Cal Sans UI';
+    src: url('https://static.skuflic.com/fonts/Cal-Sans/CalSansUI-Variable.woff2') format('woff2-variations');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+}
+
 body {
-    font-family: 'GT Walsheim Pro';
+    font-family: 'Cal Sans UI', ui-sans-serif, system-ui, sans-serif;
 }
 
 h1 {
@@ -36,7 +44,9 @@ p {
 }
 
 .bg-image {
-    background-image: linear-gradient(to top, #0b0c0f 0%, rgba(0, 0, 0, 0) 100%), url(https://image.tmdb.org/t/p/original/nDOIsgCYZqEMvomSR6t9QUIPZJS.jpg);
+    background-image:
+        linear-gradient(to top, #0b0c0f 0%, rgba(0, 0, 0, 0) 100%),
+        url(https://image.tmdb.org/t/p/original/nDOIsgCYZqEMvomSR6t9QUIPZJS.jpg);
     background-size: cover;
     background-position: center center;
     align-items: flex-end;
@@ -129,7 +139,6 @@ code {
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
-
     .ml-3,
     .mx-3 {
         margin-left: 0px !important;
