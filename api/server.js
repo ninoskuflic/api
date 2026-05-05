@@ -22,6 +22,7 @@ server.use(jsonServer.rewriter({
     '/quotes/:category': '/quotes?category=:category',
     '/billing/card/:type': '/billing?card_type=:type',
     '/tasks/category/:category': '/tasks?category=:category',
+    '/bentley/:slug': '/bentley?slug=:slug',
 }))
 
 // Configuration object for method restrictions
